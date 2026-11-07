@@ -1,2 +1,1 @@
-def main() -> str:
-    return "Hello from taskref!"
+__version__ = '0.1.0'

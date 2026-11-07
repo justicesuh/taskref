@@ -10,7 +10,7 @@ requires-python = ">=3.13"
 dependencies = []
 
 [project.scripts]
-taskref = "taskref:main"
+taskref = "taskref.cli:main"
 
 [build-system]
 requires = ["setuptools>=61"]
